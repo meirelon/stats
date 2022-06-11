@@ -1,3 +1,4 @@
+# statquest exercise: https://youtu.be/JQc3yx0-Q9E
 import random
 
 
