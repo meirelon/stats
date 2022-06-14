@@ -1,6 +1,14 @@
 # stats
 
+## Getting Started
+Conda Environment Setup:
+```
+conda env create -f env.yml
+conda activate stats
 
+```
+
+## Resources
 |  topic         | reference                                       |
 |:---------------|:------------------------------------------------|
 | bootstrapping  | ['https://youtu.be/Xz0x-8-cgaQ']                |

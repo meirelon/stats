@@ -1,1 +1,4 @@
 ipython
+spotify-confidence
+click
+seaborn

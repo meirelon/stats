@@ -2,8 +2,14 @@
   "topic": {
     "pvalue": ["https://www.youtube.com/watch?v=vemZtEM63GY"],
     "phacking": ["https://www.youtube.com/watch?v=HDCOUXE3HMM"],
-    "power_analysis": ["https://www.youtube.com/watch?v=VX_M3tIyiYk"],
-    "bootstrapping": ["https://youtu.be/Xz0x-8-cgaQ"],
+    "power_analysis": [
+      "https://www.youtube.com/watch?v=VX_M3tIyiYk",
+      "https://www.youtube.com/watch?v=6_Cuz0QqRWc"
+    ],
+    "bootstrapping": [
+      "https://youtu.be/Xz0x-8-cgaQ",
+      "https://www.youtube.com/watch?v=N4ZQQqyIf6k"
+    ],
     "logisticreg": ["https://youtu.be/yIYKR4sgzI8"]
   }
 }
