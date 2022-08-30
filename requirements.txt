@@ -2,3 +2,4 @@ ipython
 spotify-confidence
 click
 seaborn
+psmpy
